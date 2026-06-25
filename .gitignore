@@ -1,0 +1,25 @@
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.duckdb
+*.duckdb.wal
+
+# Scratch / output
+*.log
+*.tmp
+scratch/
+
+# Python (seed generator)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
